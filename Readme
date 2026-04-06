@@ -1,1 +1,1 @@
-Los programas estan dentro de cada carpeta no se inician con el mismo 
+Este proyecto está dividido en dos carpetas independientes: **Vector-Heap** y **Framework**. La carpeta *VectorHeap* contiene la implementación propia de una cola de prioridad utilizando un heap, mientras que la carpeta *Framework* utiliza la clase `PriorityQueue` del Java Collection Framework. Cada una tiene su propio `Main`, por lo que deben compilarse y ejecutarse por separado.
